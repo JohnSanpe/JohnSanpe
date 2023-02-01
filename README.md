@@ -5,17 +5,17 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=John-sanpe)
 
-I'm an engineer focused with kernel development.
+I'm an engineer focused with kernel and algorithm.
 
 As a developer, I am interested in the implementation of some details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 :house: **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working in repository lightcore.
-- 🌱 I’m currently learning C and Rust language.
+- 🔭 I’m currently working for myself.
+- 🌱 I’m currently learning C and Kshell language.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: sanpeqf@gmail.com
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: sanpeqf@gmail.com.
 
 📈 **My GitHub Stats:**
 
