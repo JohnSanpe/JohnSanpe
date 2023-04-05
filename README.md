@@ -12,7 +12,7 @@ As a developer, I am interested in the implementation of some details, my unequi
 :house: **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working for myself.
-- 🌱 I’m currently learning C and Kshell language.
+- 🌱 I’m currently learning C and  language.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: sanpeqf@gmail.com.
