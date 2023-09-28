@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JohnSanpe)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe)
-[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](GPG key: https://github.com/JohnSanpe.gpg)
+[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=John-sanpe)
 
