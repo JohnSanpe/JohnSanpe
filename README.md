@@ -1,12 +1,11 @@
 ### Hi there, I'm Fredrik Anderson
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JohnSanpe)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe)
 [![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=John-sanpe)
 
-I'm an engineer focused with kernel and algorithm.
+I'm an programmer focused with kernel and embedded.
 
 As a developer, I am interested in the implementation of some details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
