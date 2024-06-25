@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe)
 [![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=John-sanpe)
+### Glad to see you here!
 
 I'm an programmer focused with kernel and embedded.
 
@@ -20,6 +20,6 @@ As a developer, I am interested in the implementation of some details, my unequi
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyperKernel&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKernel&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e4ac&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ac&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
