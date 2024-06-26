@@ -1,7 +1,7 @@
 ### Hi there, I'm Fredrik Anderson
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe)
-[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/sanpeqf.gpg)
+[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
 
 ### Glad to see you here!
 
@@ -20,6 +20,6 @@ As a developer, I am interested in the implementation of some details, my unequi
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanpeqf&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanpeqf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnSanpe&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSanpe&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
