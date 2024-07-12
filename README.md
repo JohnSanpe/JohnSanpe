@@ -1,7 +1,7 @@
 ### Hi there, I'm Fredrik Anderson
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe)
-[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/RegGateX)
+[![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/RegGateX.gpg)
 
 ### Glad to see you here!
 
