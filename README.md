@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/JohnSanpe)
 [![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/JohnSanpe.gpg)
 
-### Glad to see you here!
+### Glad to see you here ;)
 
 I'm an programmer focused with kernel and embedded.
 
